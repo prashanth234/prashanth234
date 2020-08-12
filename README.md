@@ -9,7 +9,9 @@
 
 Hi, I'm a passionate self-taught data science developer.
 
+<!--
 - 🔭 I’m currently working on my project [Credit card fraud detection](https://github.com/prashanth4/Credit-Card-Fraud-Detection)
+-->
 
 **Languages and Tools:**  
 
@@ -19,13 +21,15 @@ Hi, I'm a passionate self-taught data science developer.
 ![Prashanth's github stats](https://github-readme-stats.vercel.app/api?username=prashanth234&count_private=true&show_icons=true&theme=radical)
 -->
 
+**My Top Projects:** 
+
 <a href="https://github.com/prashanth/Credit-Card-Fraud-Detection">
   <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=prashanth234&repo=Credit-Card-Fraud-Detection" />
 </a>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=prashanth234)
+<br/>
 
-<br>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=prashanth234)
 
 <p align="center"> 
   Visitor count<br>
