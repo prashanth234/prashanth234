@@ -22,14 +22,17 @@ Hi, I'm a passionate self-taught data science developer.
 -->
 
 **My Top Projects:** 
-
+<div>
 <a href="https://github.com/prashanth/Credit-Card-Fraud-Detection">
   <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=prashanth234&repo=Credit-Card-Fraud-Detection" />
 </a>
+</div>
 
 <br/>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=prashanth234)
+<p align="center"> 
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=prashanth234)
+</p>
 
 <p align="center"> 
   Visitor count<br>
