@@ -7,8 +7,7 @@
 
 ---
 
-Hi, I'm a passionate self-taught data science developer.
-
+Hi, I'm a self taught, active learner and tech enthusiast who is passionate about solving problems using data science.
 <!--
 - 🔭 I’m currently working on my project [Credit card fraud detection](https://github.com/prashanth4/Credit-Card-Fraud-Detection)
 -->
