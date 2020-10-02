@@ -26,6 +26,9 @@ Hi, I'm a self taught, active learner and tech enthusiast who is passionate abou
 **My Top Projects:** 
 
 ![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=prashanth234&repo=Credit-Card-Fraud-Detection)
+![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=prashanth234&repo=Digit-Recognizer)
+![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=prashanth234&repo=Quora-Insincere-Questions-Classification)
+![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=prashanth234&repo=House-Prices-Advanced-Regression-Techniques)
 
 <!--
 <a href="https://github.com/prashanth/Credit-Card-Fraud-Detection">
