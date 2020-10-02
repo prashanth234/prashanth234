@@ -36,7 +36,7 @@ Hi, I'm a self taught, active learner and tech enthusiast who is passionate abou
 </a>
 -->
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=prashanth234)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=prashanth234) 
 
 <p align="center"> 
   Visitor count<br>
